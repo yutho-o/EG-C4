@@ -1,4 +1,11 @@
-/ClassesAndRankExo2/obj
-/.idea
-/Exo1To4/obj
-Exo1To4/.DS_Store
+# Build .NET
+bin/
+obj/
+
+# IDE
+.idea/
+.vs/
+*.user
+
+# macOS
+.DS_Store
